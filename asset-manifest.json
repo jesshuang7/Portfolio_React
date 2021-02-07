@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.92c2e26a.chunk.css",
+    "main.js": "/Portfolio_React/static/js/main.ce0580ed.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.ce0580ed.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.f07dd40b.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.f07dd40b.js.map",
+    "static/js/2.3807ad9e.chunk.js": "/Portfolio_React/static/js/2.3807ad9e.chunk.js",
+    "static/js/2.3807ad9e.chunk.js.map": "/Portfolio_React/static/js/2.3807ad9e.chunk.js.map",
+    "static/js/3.10fc7695.chunk.js": "/Portfolio_React/static/js/3.10fc7695.chunk.js",
+    "static/js/3.10fc7695.chunk.js.map": "/Portfolio_React/static/js/3.10fc7695.chunk.js.map",
+    "index.html": "/Portfolio_React/index.html",
+    "static/css/main.92c2e26a.chunk.css.map": "/Portfolio_React/static/css/main.92c2e26a.chunk.css.map",
+    "static/js/2.3807ad9e.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.3807ad9e.chunk.js.LICENSE.txt",
+    "static/media/2021_Jessica_Software_Engineer.40401c2f.pdf": "/Portfolio_React/static/media/2021_Jessica_Software_Engineer.40401c2f.pdf",
+    "static/media/BudgetTracker.a1cb27f7.gif": "/Portfolio_React/static/media/BudgetTracker.a1cb27f7.gif",
+    "static/media/Code_Quiz.8bf8a231.gif": "/Portfolio_React/static/media/Code_Quiz.8bf8a231.gif",
+    "static/media/EmployeeDirectory.83dc9be3.gif": "/Portfolio_React/static/media/EmployeeDirectory.83dc9be3.gif",
+    "static/media/WorkoutTracker.c9261338.gif": "/Portfolio_React/static/media/WorkoutTracker.c9261338.gif",
+    "static/media/style.css": "/Portfolio_React/static/media/background.de3e66e2.jpg",
+    "static/media/dumbbells and donuts.9587a5a8.gif": "/Portfolio_React/static/media/dumbbells and donuts.9587a5a8.gif",
+    "static/media/eatdaburger.b464c7b9.gif": "/Portfolio_React/static/media/eatdaburger.b464c7b9.gif",
+    "static/media/employeeTracker.608bf73c.gif": "/Portfolio_React/static/media/employeeTracker.608bf73c.gif",
+    "static/media/github.0f4feb98.png": "/Portfolio_React/static/media/github.0f4feb98.png",
+    "static/media/jessica.5d620c1c.jpeg": "/Portfolio_React/static/media/jessica.5d620c1c.jpeg",
+    "static/media/readmeGenerator.4cbc52fd.gif": "/Portfolio_React/static/media/readmeGenerator.4cbc52fd.gif",
+    "static/media/schedule.2e3e331b.gif": "/Portfolio_React/static/media/schedule.2e3e331b.gif",
+    "static/media/weather.87a56b47.gif": "/Portfolio_React/static/media/weather.87a56b47.gif",
+    "static/media/yourdigitalelf.40c14a2b.gif": "/Portfolio_React/static/media/yourdigitalelf.40c14a2b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07dd40b.js",
+    "static/js/2.3807ad9e.chunk.js",
+    "static/css/main.92c2e26a.chunk.css",
+    "static/js/main.ce0580ed.chunk.js"
+  ]
+}
