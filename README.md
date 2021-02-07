@@ -22,22 +22,16 @@ View the [Github-pages](https://jesshuang7.github.io/Portfolio_React)
 * [Acknowledgements](#acknowledgements)
 
 ## About the Project:
-The focus of this project was to utilize the [Bootstrap Framework](https://getbootstrap.com/) as a base to create a mobile responsive portfolio.
+The focus of this project was to utilize the [React](https://reactjs.org/docs/getting-started.html) as a base to recreate a mobile responsive portfolio.
 
-![Project Gif](Assets/Images/portfolio.gif)
+![Project Photos](client/src/Assets/Images/about.png)
+![Project Photos](client/src/Assets/Images/project.png)
+![Project Photos](client/src/Assets/Images/contact.png)
 
-### HTML:
-* [index.html](https://github.com/jesshuang7/Portfolio_React/blob/master/contact.html)
-* [contact.html](https://github.com/jesshuang7/Portfolio_React/blob/master/contact.html)
-* [portfolio.html](https://github.com/jesshuang7/Portfolio_React/blob/master/portfolio.html)
 
-### Assets:
-* [style.css](https://github.com/jesshuang7/Portfolio_React/blob/master/Assets/css/style.css)
-* [images](https://github.com/jesshuang7/Portfolio_React/tree/master/Assets/Images)
 
 ### Built With:
-* This app is build upon [Bootstrap Framework](https://getbootstrap.com/)
-
+* This app is build upon [React](https://reactjs.org/docs/getting-started.html) and [React-Router-Dom](https://reactrouter.com/web/guides/quick-start)
 ## Getting Started:
 To get a local copy up and running follow the steps below.
 
