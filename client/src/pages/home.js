@@ -10,7 +10,7 @@ function Home() {
             <Header />  
             <About />
             <Footer />
-                 </body>
+        </body>
     )
 }
 

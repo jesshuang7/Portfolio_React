@@ -27,8 +27,8 @@ function About () {
 
                             </ul>
                             <div className="card-body">
-                                <a href="https://www.linkedin.com/in/tzunu-jessica/" className="card-link"><img src={linkedin} alt="linkedin-image" width="15%"/></a>
-                                    <a href="https://github.com/jesshuang7" className="card-link"><img src={github} alt="github-image" width="30%"/></a>
+                                <a href="https://www.linkedin.com/in/tzunu-jessica/" className="card-link"><img src={linkedin} alt="linkedin" width="15%"/></a>
+                                    <a href="https://github.com/jesshuang7" className="card-link"><img src={github} alt="github" width="30%"/></a>
                                         <a href={resume} className="card-link">resume</a>
                             </div>
                      </div>

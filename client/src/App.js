@@ -1,5 +1,4 @@
 import './App.css';
-import Header from "./components/header/header";
 import Contact from "./pages/contact";
 import Home from "./pages/home";
 import Portfolio from "./pages/protfolio";
