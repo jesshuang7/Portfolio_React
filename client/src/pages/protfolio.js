@@ -1,8 +1,13 @@
 import React from "react";
+import Footer from "../components/footer/footer";
+import Header from "../components/header/header";
 
 function Portfolio () {
     return (
-        <p>Portfolio</p>
+        <div>
+        <Header/>
+        <Footer/>
+         </div>
     )
 }
 

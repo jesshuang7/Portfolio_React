@@ -22,3 +22,7 @@ header {
     width: 100%;
 }
 
+body{
+    background-image: url("../../Assets/css/background.jpg");
+}
+
