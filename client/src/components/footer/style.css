@@ -1,0 +1,22 @@
+/* footer section-making two strips of colors 
+with copy right text*/
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footertop {
+    height: 7px;
+    background-color: #4aaaa5;
+}
+
+/* padding-top makes the text align in the middle */
+.footerbottom {
+    background-color: #666666;
+    color: #cccccc;
+    text-align: center;
+    padding-top: 0.8rem;
+    height: 55px;
+}

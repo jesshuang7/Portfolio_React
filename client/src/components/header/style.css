@@ -1,0 +1,24 @@
+/* navbar section */
+
+header {
+    height: 10px;
+    padding-bottom: 100px;
+    width: 100%;
+
+}
+
+
+#myname {
+    text-align: center;
+    color:#fff; 
+    background-color: #4aaaa5;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+
+.navbar {
+    width: 100%;
+}
+
