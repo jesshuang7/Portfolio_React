@@ -24,9 +24,9 @@ View the [Github-pages](https://jesshuang7.github.io/Portfolio_React)
 ## About the Project:
 The focus of this project was to utilize the [React](https://reactjs.org/docs/getting-started.html) as a base to recreate a mobile responsive portfolio.
 
-![Project Photos](client/src/Assets/Images/about.png)
-![Project Photos](client/src/Assets/Images/project.png)
-![Project Photos](client/src/Assets/Images/contact.png)
+![Project Photos](src/Assets/Images/about.png)
+![Project Photos](src/Assets/Images/project.png)
+![Project Photos](src/Assets/Images/contact.png)
 
 
 
