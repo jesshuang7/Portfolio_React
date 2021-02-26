@@ -3,17 +3,16 @@ import Contact from "./pages/contact";
 import Home from "./pages/home";
 import Portfolio from "./pages/protfolio";
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <Switch>
       <Route exact path="/" component={Home}  />
-      <Route path="/contact.html" component={Contact} />
-      <Route path="/portfolio.html" component={Portfolio} />
-      <Route path="/index.html" component={Home} />
+      <Route exact path="/contact" component={Contact} />
+      <Route exact path="/portfolio" component={Portfolio} />
       </Switch>
     </Router>
   );

@@ -4,8 +4,8 @@ import "./style.css";
 function Form () {
     return (
 
-<div className="container col-md-6 bg-light ml-5 mt-5 mr-5 pt-3 pl-5 pr-5 pb-3">
-    <div className="controls">
+<div className="container col-md-6 ml-5 mt-5 mr-5 pt-3 pl-5 pr-5 pb-3" style={{backgroundColor:"rgba(23, 75, 78, 0.46)"}}>
+    <div className="controls" >
     
         <div className="row">
             <h1>Contact</h1>

@@ -7,9 +7,8 @@ import linkedin from "./../../Assets/Images/linkedin.png";
 
 function About () {
     return (
-<footer className="footer">
-<div className="intro-container container col-md-10 col-sm-10 col-xs-8 ml-4 mt-3 mb-5">
-                    <div className="col-md-9 bg-light pt-2 pl-5 pr-5 pb-5">
+<div className="intro-container container col-md-10 col-sm-10 col-xs-8 ml-4 mt-5 mb-5">
+                    <div className="col-md-9 pt-2 pl-5 pr-5 pb-5" style={{backgroundColor:"rgba(23, 75, 78, 0.46)"}}>
 
                     <div className="row">
                         <h1>About Me</h1>
@@ -48,9 +47,9 @@ function About () {
                                 <p className="intro">Besides dancing, as you can already tell, Jessica also loves traveling, cooking, reading, and singing. She loves haning out with friends and family. She recently falls in love with hiking here at the Pacific Northwest.</p>
                             </div>
                         </div>
-                        </div>
+        <footer className="footer" />
+    </div>
                             
-</footer>
     )
 }
 

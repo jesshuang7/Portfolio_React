@@ -1,8 +1,8 @@
-/* 
+
 .contatiner{
-    padding:20px;
-    margin-bottom: 0px;
-} */
+    background-color: rgba(23, 75, 78, 0.46);
+
+}
 
 
 h1{
@@ -27,5 +27,5 @@ h1{
 }
 
 .intro {
-    color: #3e3e3e;
+    color: white;
 }
