@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portfolio_React/static/css/main.92c2e26a.chunk.css",
-    "main.js": "/Portfolio_React/static/js/main.ce0580ed.chunk.js",
-    "main.js.map": "/Portfolio_React/static/js/main.ce0580ed.chunk.js.map",
-    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.f07dd40b.js",
-    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.f07dd40b.js.map",
-    "static/js/2.3807ad9e.chunk.js": "/Portfolio_React/static/js/2.3807ad9e.chunk.js",
-    "static/js/2.3807ad9e.chunk.js.map": "/Portfolio_React/static/js/2.3807ad9e.chunk.js.map",
-    "static/js/3.10fc7695.chunk.js": "/Portfolio_React/static/js/3.10fc7695.chunk.js",
-    "static/js/3.10fc7695.chunk.js.map": "/Portfolio_React/static/js/3.10fc7695.chunk.js.map",
+    "main.css": "/Portfolio_React/static/css/main.dc471966.chunk.css",
+    "main.js": "/Portfolio_React/static/js/main.d918ecaa.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.d918ecaa.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.7afad3b5.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.7afad3b5.js.map",
+    "static/js/2.29e1c99c.chunk.js": "/Portfolio_React/static/js/2.29e1c99c.chunk.js",
+    "static/js/2.29e1c99c.chunk.js.map": "/Portfolio_React/static/js/2.29e1c99c.chunk.js.map",
+    "static/js/3.9c7696d7.chunk.js": "/Portfolio_React/static/js/3.9c7696d7.chunk.js",
+    "static/js/3.9c7696d7.chunk.js.map": "/Portfolio_React/static/js/3.9c7696d7.chunk.js.map",
     "index.html": "/Portfolio_React/index.html",
-    "static/css/main.92c2e26a.chunk.css.map": "/Portfolio_React/static/css/main.92c2e26a.chunk.css.map",
-    "static/js/2.3807ad9e.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.3807ad9e.chunk.js.LICENSE.txt",
+    "static/css/main.dc471966.chunk.css.map": "/Portfolio_React/static/css/main.dc471966.chunk.css.map",
+    "static/js/2.29e1c99c.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.29e1c99c.chunk.js.LICENSE.txt",
     "static/media/2021_Jessica_Software_Engineer.40401c2f.pdf": "/Portfolio_React/static/media/2021_Jessica_Software_Engineer.40401c2f.pdf",
     "static/media/BudgetTracker.a1cb27f7.gif": "/Portfolio_React/static/media/BudgetTracker.a1cb27f7.gif",
     "static/media/Code_Quiz.8bf8a231.gif": "/Portfolio_React/static/media/Code_Quiz.8bf8a231.gif",
@@ -29,9 +29,9 @@
     "static/media/yourdigitalelf.40c14a2b.gif": "/Portfolio_React/static/media/yourdigitalelf.40c14a2b.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.f07dd40b.js",
-    "static/js/2.3807ad9e.chunk.js",
-    "static/css/main.92c2e26a.chunk.css",
-    "static/js/main.ce0580ed.chunk.js"
+    "static/js/runtime-main.7afad3b5.js",
+    "static/js/2.29e1c99c.chunk.js",
+    "static/css/main.dc471966.chunk.css",
+    "static/js/main.d918ecaa.chunk.js"
   ]
 }
